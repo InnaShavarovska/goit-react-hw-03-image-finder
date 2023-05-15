@@ -6,7 +6,7 @@ import { ImageGallery } from './ImageGallery/ImageGallery';
 import { Modal } from './Modal/Modal';
 import { Loader } from './Loader/Loader';
 import { Button } from './Button/Button';
-import { fetchHitsByQuery } from 'Api';
+import { fetchHitsByQuery } from './Api/Api';
 
 export class App extends Component {
   state = {
