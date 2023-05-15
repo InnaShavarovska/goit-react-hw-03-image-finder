@@ -9,7 +9,6 @@ export class Searchbar extends Component {
           <button type="submit">
             <span>Search</span>
           </button>
-
           <input
             name="search"
             type="text"
